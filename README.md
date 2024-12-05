@@ -1,5 +1,5 @@
 # CS537-Operating-System-UW
-## C language - CS537 - remiz
+## C language - CS537 - remiz.
 
 ### Projects:
 
